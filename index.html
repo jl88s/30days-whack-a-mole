@@ -38,7 +38,7 @@
   const moles = document.querySelectorAll('.mole');
   let lastHole;
   let timeUp = false;
-  let score = 0;
+  let scroe =0;
 
   function randomTime(min, max) {
     return Math.round(Math.random() * (max - min) + min);
@@ -48,8 +48,8 @@
     const idx = Math.floor(Math.random() * holes.length);
     const hole = holes[idx];
     if (hole === lastHole) {
-      console.log('Ah nah thats the same one bud');
-      return randomHole(holes);
+      console.log('Ah nah thats the same one');
+      randomHole(holes);
     }
     lastHole = hole;
     return hole;
@@ -61,7 +61,7 @@
     hole.classList.add('up');
     setTimeout(() => {
       hole.classList.remove('up');
-      if (!timeUp) peep();
+      if(!timeUp) peep();
     }, time);
   }
 
@@ -70,13 +70,13 @@
     timeUp = false;
     score = 0;
     peep();
-    setTimeout(() => timeUp = true, 10000)
+    setTimeout(() => timeUp = true, 10000);
   }
 
   function bonk(e) {
-    if(!e.isTrusted) return; // cheater!
+    if(!e.isTrusted) return; //cheater click!
     score++;
-    this.parentNode.classList.remove('up');
+    this.classList.remove('up');
     scoreBoard.textContent = score;
   }
 
