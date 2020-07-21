@@ -1,0 +1,9 @@
+# 30 Days of JavaScript - Key Sequence Detection
+
+### Monday July, 20, 2020 - 11:53 PM
+
+That is it! My last day of finishing the 30days JavaScript exercises by Wes Bos. Although it was a following-along type of tutorials. I still feel like by typing out the syntax's and visualizing how certain structures work together. I now have a better understanding on how to write better JavaScript (Vanilla!). With out a doubt, it was still confusing as hell in some of the situations and it really took me some time staring at some of the things Wes did in order for me to have that "ah-ha" momment. 
+
+Just to re-cap for the past month. I have been also studying WordPress Content Management System at Mission College, and it's dissapointing to say, but I couldn't finish my final project because I completely got side-tracked and lost time. Given that a summer class is only 6 weeks long, my classes were unorganized by the teacher, and just a big mess. I did well in the beginning middle, but not end. It's frustrating that I made a long list and constantly did my part in order to stay up to date with the assignment. However, after my teacher messaged us after he was away for a week and a half, that's when everything started to fall out of place. I hole-heartedly don't blame my teacher for everything because my success is ultimately in my own hands. In retrospec, moving forward with other classes (espescially around the normal school days). I will make more of an effort messaging my teacher with ANY questions, whether they are relavent or not. I thought I was controlling the ship with all my plans and check marks in place, but there are a few holes on deck that I need to patch up going forward. 
+
+Now, with JavaScript, I think it's best for me to continue with the tutorial base lessons that I have already signed up for and completes those. 
